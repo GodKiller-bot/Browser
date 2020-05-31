@@ -50,3 +50,6 @@ while True:
 
         else:
             print("Error: Incorrect URL")
+            
+            
+# For any further queries please contact ニア#3312 on Discord.      
